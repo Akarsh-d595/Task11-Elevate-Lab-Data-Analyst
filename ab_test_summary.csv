@@ -1,0 +1,8 @@
+Metric,Value
+Conversion Rate (Awareness),0.8556
+Conversion Rate (Conversion),0.9336
+Difference in Conversion Rates (Test - Control),0.0779
+Z-statistic,-8.1168
+P-value,0.0000
+Lower Bound of 95% CI for Difference,0.0591
+Upper Bound of 95% CI for Difference,0.0967
